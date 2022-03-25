@@ -1,0 +1,47 @@
+.payment_formContainer{
+  min-height: 100vh;
+}
+
+.payment_form{
+  width: 25%;
+}
+
+.payment_payButton{
+  background-color: #005bff !important;
+  color: white !important;
+  font-size: 22px !important;
+}
+
+.payment_payButton_disabled{
+  background-color: #B7C0FF !important;
+}
+
+@media (max-width: 1347px) {
+  .payment_form{
+    width: 45%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .payment_form{
+    width: 45%;
+  }
+}
+
+@media (max-width: 1026px) {
+  .payment_form{
+    width: 70%;
+  }
+}
+
+@media (max-width: 767px) {
+  .payment_form{
+    width: 90%;
+  }
+}
+
+@media (max-width: 766px) {
+  .payment_form{
+    width: 90%;
+  }
+}
