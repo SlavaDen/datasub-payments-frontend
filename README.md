@@ -20,9 +20,9 @@ npm install
 2. Set your URL to .env
    To the REACT_APP_BACKEND variable
 
-   ```
-   REACT_APP_BACKEND = "http://localhost:5000/"
-   ```
+```
+REACT_APP_BACKEND = "http://localhost:5000/"
+```
 
 3. Start the frontend application locally
 
